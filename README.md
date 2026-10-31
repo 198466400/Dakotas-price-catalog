@@ -41,9 +41,7 @@
 
 ---
 
-# EASY SELL SCRIPT
-
-> "We help businesses eliminate repetitive work using AI and automation. Most clients recover 5-20 hours per week. We start with a low-cost audit, identify the biggest bottlenecks, then automate the highest-value tasks first."
+We help businesses eliminate repetitive work using AI and automation. Most clients recover 5-20 hours per week. We start with a low-cost audit, identify the biggest bottlenecks, then automate the highest-value tasks first.
 
 ---
 
